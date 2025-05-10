@@ -27,3 +27,17 @@
 ## Contribuții
 
 Contribuțiile sunt binevenite! Dacă ai idei sau sugestii, te rugăm să deschizi un issue sau un pull request.
+
+Screenshot-uri cu aplicatia
+
+1. ![Screenshot 2025-05-10 155852](img/Screenshot%202025-05-10%20155852.png)
+2. ![Screenshot 2025-05-10 155953](img/Screenshot%202025-05-10%20155953.png)
+3. ![Screenshot 2025-05-10 160048](img/Screenshot%202025-05-10%20160048.png)
+4. ![Screenshot 2025-05-10 160322](img/Screenshot%202025-05-10%20160322.png)
+5. ![Screenshot 2025-05-10 160437](img/Screenshot%202025-05-10%20160437.png)
+6. ![Screenshot 2025-05-10 160702](img/Screenshot%202025-05-10%20160702.png)
+7. ![Screenshot 2025-05-10 160912](img/Screenshot%202025-05-10%20160912.png)
+8. ![Screenshot 2025-05-10 161007](img/Screenshot%202025-05-10%20161007.png)
+9. ![Screenshot 2025-05-10 161126](img/Screenshot%202025-05-10%20161126.png)
+10. ![Screenshot 2025-05-10 161448](img/Screenshot%202025-05-10%20161448.png)
+
